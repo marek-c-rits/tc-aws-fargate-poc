@@ -1,2 +1,5 @@
+.idea
+
 dist
 node_modules
+build-n-push.sh
